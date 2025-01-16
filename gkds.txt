@@ -17,16 +17,6 @@ CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/ind
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-兵器科技,
-CCTV-世界地理,
-CCTV-怀旧剧场,
-直播中国,
-CCTV世界地理,
-CCTV兵器科技,
-CCTV女性时尚,
-CCTV第一剧场,
-CCTV风云剧场,
-CCTV风云音乐,
 
 
 
@@ -55,10 +45,6 @@ CCTV风云音乐,
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-云南卫视,
-甘肃卫视,
-青海卫视,
-三沙卫视,
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
