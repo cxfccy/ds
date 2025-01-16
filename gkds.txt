@@ -1,0 +1,87 @@
+央视频道,#genre#
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-兵器科技,
+CCTV-世界地理,
+CCTV-怀旧剧场,
+直播中国,
+CCTV世界地理,
+CCTV兵器科技,
+CCTV女性时尚,
+CCTV第一剧场,
+CCTV风云剧场,
+CCTV风云音乐,
+
+
+
+卫视频道,#genre#
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+云南卫视,
+甘肃卫视,
+青海卫视,
+三沙卫视,
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
+
+数字频道,#genre#
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
+
+
+福建频道,#genre#
+福建,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+福州电视台少儿频道_(FZTV-少儿)_(1080p),http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福建综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=4$官方源
+福建公共,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=6$官方源
+福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=13$官方源
+福建电视剧,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=7$官方源
+福建旅游,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=8$官方源
+福建经济,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=9$官方源
+福建文体,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=10$官方源
+福建少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/1.m3u8#http://8.138.7.223/tv/fjtv.php?id=2$官方源
+福建教育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/1.m3u8
+厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+厦门1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+厦门2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+厦门3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
